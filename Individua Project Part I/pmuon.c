@@ -61,3 +61,4 @@ void cleanup_module(void) {
     printk("GOODBYE, PMU Off\n");
 }
 
+
